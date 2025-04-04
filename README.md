@@ -1,4 +1,4 @@
-# Photo Date Sort
+# Photo Date Organize
 
 This script will take a massive folder of photos and videos in common formats and sort them into subfolders of years and months based on EXIF data. Files that are not valid photos or videos or which do not have EXIF data will not be moved.
 
