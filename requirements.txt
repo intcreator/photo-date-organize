@@ -1,0 +1,5 @@
+pillow==11.1.0
+pillow_heif==0.22.0
+pyee==13.0.0
+python-ffmpeg==2.0.12
+typing_extensions==4.13.1
